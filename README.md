@@ -21,7 +21,7 @@ Ionic
 =======
 - native transitions - https://github.com/shprink/ionic-native-transitions
 - resources - http://ionicframework.com/docs/cli/icon-splashscreen.html
-- 
+
 
 
 Canvas
