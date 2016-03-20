@@ -1,5 +1,4 @@
-Cool JS Links and stuff
-=========================
+Cool stuff I found on the web...feel free to contribute !
 
 js
 ======
@@ -10,20 +9,33 @@ js
 
 Animation
 ===========
+- ramjet.js - http://www.rich-harris.co.uk/ramjet/
+- rekapi.js - http://rekapi.com/
 - velocity.js - http://julian.com/research/velocity/
+- Confetti - http://codepen.io/iprodev/pen/azpWBr
+- Creative Gooey Effects - http://tympanus.net/Development/CreativeGooeyEffects/send.html 
+- SVG Morpheus - http://alexk111.github.io/SVG-Morpheus/
+
+
+Ionic 
+=======
+- native transitions - https://github.com/shprink/ionic-native-transitions
 
 
 Canvas
 ========
 - fabric.js - http://fabricjs.com/
-
+- http://zwibbler.com/
+- https://sketch.io/
 
 Real-Time
 ==========
 - firebase - https://www.firebase.com/docs/web/changelog.html
 - queryBase - https://github.com/davideast/Querybase
+- firestation - https://github.com/chrisvxd/firestation
+- deepstream - https://deepstream.io/
 
-
+ 
 JSON
 =====
 - dream.js - A lightweight json data generator. https://github.com/adleroliveira/dreamjs
@@ -33,3 +45,24 @@ JSON
 Github
 =======
 - 
+
+Video
+=======
+- cameraTag - https://cameratag.com/demo
+
+
+Scrap
+======
+- portia - http://scrapinghub.com/portia/
+- kimonolabs - https://www.kimonolabs.com/
+
+Testing
+========
+- runscope - https://www.runscope.com
+
+
+Tools
+=======
+- https://entrepreneur-tools.zeef.com/keyhanimo
+- Diagrams - https://www.gliffy.com
+- slides - https://slides.com/
