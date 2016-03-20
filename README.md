@@ -11,7 +11,7 @@ js
 Animation
 ===========
 - velocity.js - http://julian.com/research/velocity/
-- 
+
 
 Canvas
 ========
