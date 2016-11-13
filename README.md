@@ -68,3 +68,11 @@ Tools
 - https://entrepreneur-tools.zeef.com/keyhanimo
 - Diagrams - https://www.gliffy.com
 - slides - https://slides.com/
+
+
+AWS S3 and Cloudfront
+========
+- cors - http://blog.celingest.com/en/2014/10/02/tutorial-using-cors-with-cloudfront-and-s3/
+- cors - http://stackoverflow.com/questions/22282137/cloudfront-error-when-serving-over-https-using-sni
+- cors - https://spring.io/understanding/CORS
+
