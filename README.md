@@ -6,6 +6,8 @@ js
 - pagePiling - http://alvarotrigo.com/pagePiling/
 - idle.js - https://github.com/shawnmclean/Idle.js
 - offline.js - http://github.hubspot.com/offline/docs/welcome/
+- webrtc shim - http://cdn.temasys.com.sg/skylink/skylinkjs/latest/doc/classes/Skylink.html
+
 
 Animation
 ===========
@@ -15,20 +17,29 @@ Animation
 - Confetti - http://codepen.io/iprodev/pen/azpWBr
 - Creative Gooey Effects - http://tympanus.net/Development/CreativeGooeyEffects/send.html 
 - SVG Morpheus - http://alexk111.github.io/SVG-Morpheus/
+- Shave Text  - https://dollarshaveclub.github.io/shave/
+- KUTE - http://thednp.github.io/kute.js/examples.html
 
+
+
+CSS
+=========
+- Icons - http://cssicon.space/#/icon/minify
+- CSS Loaders - http://www.raphaelfabeni.com.br/css-loader/
+- Core CSS - http://corecss.io/
 
 Ionic 
 =======
 - native transitions - https://github.com/shprink/ionic-native-transitions
 - resources - http://ionicframework.com/docs/cli/icon-splashscreen.html
 
-
-
 Canvas
 ========
 - fabric.js - http://fabricjs.com/
 - http://zwibbler.com/
 - https://sketch.io/
+- https://canvas-gauges.com/
+
 
 Real-Time
 ==========
@@ -51,6 +62,8 @@ Github
 Video
 =======
 - cameraTag - https://cameratag.com/demo
+- getaroom - https://getaroom.io/
+
 
 
 Scrap
@@ -61,6 +74,14 @@ Scrap
 Testing
 ========
 - runscope - https://www.runscope.com
+- Test Cafe - http://devexpress.github.io/testcafe/
+
+
+Raspberrry Pi
+==============
+- Garage door - https://www.google.co.il/amp/s/scognito.wordpress.com/2015/07/13/abraboxabra-controlling-garage-door-using-raspberry-pi-android-and-bluetooth/amp/?client=safari
+- LCD - https://arduinogeek.wordpress.com/2014/04/23/raspberry-pi-with-i2c-2004-lcd/
+
 
 
 Tools
