@@ -83,6 +83,12 @@ Raspberrry Pi
 - LCD - https://arduinogeek.wordpress.com/2014/04/23/raspberry-pi-with-i2c-2004-lcd/
 
 
+Drone - NodeJs
+=======
+https://github.com/sebawita/mambo-angular-service
+https://github.com/fetherston/npm-parrot-minidrone
+https://www.amazon.com/Parrot-PF727001-Mambo/dp/B01JYR44MY/ref=sr_1_3?ie=UTF8&qid=1498462214&sr=8-3&keywords=parrot+drone
+
 
 Tools
 =======
