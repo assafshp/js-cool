@@ -1,12 +1,15 @@
 Cool stuff I found on the web...feel free to contribute !
 
-js
+JS
 ======
 - fullPage.js - http://alvarotrigo.com/fullPage/
 - pagePiling - http://alvarotrigo.com/pagePiling/
 - idle.js - https://github.com/shawnmclean/Idle.js
 - offline.js - http://github.hubspot.com/offline/docs/welcome/
 - webrtc shim - http://cdn.temasys.com.sg/skylink/skylinkjs/latest/doc/classes/Skylink.html
+- await/async - https://blog.risingstack.com/mastering-async-await-in-nodejs/
+- frontend interview - https://codeburst.io/clearing-your-front-end-job-interview-javascript-d5ec896adda4
+- Spark - https://github.com/EclairJS/eclairjs-node
 
 
 Animation
@@ -21,17 +24,30 @@ Animation
 - KUTE - http://thednp.github.io/kute.js/examples.html
 
 
-
-CSS
-=========
+CSS (Sass)
+===========
 - Icons - http://cssicon.space/#/icon/minify
 - CSS Loaders - http://www.raphaelfabeni.com.br/css-loader/
 - Core CSS - http://corecss.io/
+- Radial Menu - https://codepen.io/suez/pen/vAais
+- Flip Cards - https://codepen.io/pouretrebelle/pen/GmguH
+- Toggle buttons - https://codepen.io/soulwire/pen/bKens
+- Upload progress button - https://codepen.io/balapa/pen/VYVedm
+- Switch buttons - http://cssdeck.com/labs/stylish-css-switch-buttons, https://tympanus.net/Tutorials/CSS3ButtonSwitches/index4.html
+- Image Hover - https://codepen.io/littlesnippets/pen/gwZyPp
+- Floating Action Button - https://codepen.io/sashatran/pen/pRpmWG
+- Header - https://codepen.io/xhepigerta/pen/xVvQaL
+- Rotating Icons - https://codepen.io/colewaldrip/pen/bdZVGd
+- Send button - https://codepen.io/iremlopsum/pen/OVKWxo
+- Dot bounce - https://codepen.io/chrisgannon/pen/PwMbbv
+- Door open - https://codepen.io/MariamMassadeh/pen/HDLwu
 
-Ionic 
+
+Ionic (1/2/3.x)
 =======
 - native transitions - https://github.com/shprink/ionic-native-transitions
 - resources - http://ionicframework.com/docs/cli/icon-splashscreen.html
+- market place - https://market.ionic.io/
 
 Canvas
 ========
@@ -55,15 +71,14 @@ JSON
 - dummyText - http://designhooks.com/dummytext-an-easy-way-to-fill-your-webpage-with-content/
 
 
-Github
+Git/Github
 =======
-- 
+- https://github.com/sindresorhus/refined-github
 
 Video
 =======
 - cameraTag - https://cameratag.com/demo
 - getaroom - https://getaroom.io/
-
 
 
 Scrap
@@ -73,8 +88,10 @@ Scrap
 
 Testing
 ========
-- runscope - https://www.runscope.com
+- Runscope - https://www.runscope.com
 - Test Cafe - http://devexpress.github.io/testcafe/
+- Testim.io - https://www.testim.io/
+- Continous Testing - https://www.sealights.io/
 
 
 Raspberrry Pi
@@ -98,7 +115,7 @@ Tools
 
 
 AWS S3 and Cloudfront
-========
+=================
 - cors - http://blog.celingest.com/en/2014/10/02/tutorial-using-cors-with-cloudfront-and-s3/
 - cors - http://stackoverflow.com/questions/22282137/cloudfront-error-when-serving-over-https-using-sni
 - cors - https://spring.io/understanding/CORS
