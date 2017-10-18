@@ -80,6 +80,12 @@ Video
 - cameraTag - https://cameratag.com/demo
 - getaroom - https://getaroom.io/
 
+Boilerplates
+=============
+- ngx-admin - https://github.com/akveo/ngx-admin
+- FireAdmin - https://codecanyon.net/item/fireadmin-firebase-dynamic-admin-panel/19063547
+
+
 
 Scrap
 ======
@@ -106,6 +112,9 @@ https://github.com/sebawita/mambo-angular-service
 https://github.com/fetherston/npm-parrot-minidrone
 https://www.amazon.com/Parrot-PF727001-Mambo/dp/B01JYR44MY/ref=sr_1_3?ie=UTF8&qid=1498462214&sr=8-3&keywords=parrot+drone
 
+SQL
+=======
+simpleQl - http://kueri.me/
 
 Tools
 =======
@@ -113,10 +122,14 @@ Tools
 - Diagrams - https://www.gliffy.com
 - slides - https://slides.com/
 
-
 AWS S3 and Cloudfront
 =================
 - cors - http://blog.celingest.com/en/2014/10/02/tutorial-using-cors-with-cloudfront-and-s3/
 - cors - http://stackoverflow.com/questions/22282137/cloudfront-error-when-serving-over-https-using-sni
 - cors - https://spring.io/understanding/CORS
 
+Stuff
+=======
+
+- location beacons - https://estimote.com/
+- oneSignal - https://onesignal.com/
