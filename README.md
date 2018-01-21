@@ -121,6 +121,7 @@ Tools
 - https://entrepreneur-tools.zeef.com/keyhanimo
 - Diagrams - https://www.gliffy.com
 - slides - https://slides.com/
+- source map explorer - https://www.npmjs.com/package/source-map-explorer
 
 AWS S3 and Cloudfront
 =================
