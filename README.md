@@ -142,6 +142,8 @@ Marketing
 - Yoast SEO - wordpress plugin - https://yoast.com/wordpress/plugins/seo/
 - Social - https://warfareplugins.com/
 - Landing pages - https://unbounce.com
+- Buzzsumo - https://app.buzzsumo.com/research/most-shared
+- Boost - https://digitalboost.co.il/
 
 Technology 
 =================
