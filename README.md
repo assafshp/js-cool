@@ -129,8 +129,28 @@ AWS S3 and Cloudfront
 - cors - http://stackoverflow.com/questions/22282137/cloudfront-error-when-serving-over-https-using-sni
 - cors - https://spring.io/understanding/CORS
 
+Marketing
+=================
+- New google search console - https://search.google.com
+- Old google search console - https://www.google.com/webmasters/tools/dashboard
+- GZIP - https://checkgzipcompression.com/
+- Meta-tags - https://richpreview.com/?url=https://www.wis2biz.com/
+- SEO - https://serpstat.com/
+- Keywords - http://www.keywordspy.com/research/search.aspx?q=magoosh.com&type=domains#/tab=domain-organic
+- AMP - accelrated mobile pages - https://www.ampproject.org/
+- Conversion - visual web optimizer - https://vwo.com/
+- Yoast SEO - wordpress plugin - https://yoast.com/wordpress/plugins/seo/
+- Social - https://warfareplugins.com/
+- Landing pages - https://unbounce.com
+
+Technology 
+=================
+- thoughtworks radar - https://www.thoughtworks.com/radar
+- Redmonk - http://redmonk.com/
+
+
 Stuff
 =======
 
 - location beacons - https://estimote.com/
-- oneSignal - https://onesignal.com/
+- oneSignal - Push notifications - https://onesignal.com/
