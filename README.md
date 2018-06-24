@@ -128,6 +128,7 @@ AWS S3 and Cloudfront
 - cors - http://blog.celingest.com/en/2014/10/02/tutorial-using-cors-with-cloudfront-and-s3/
 - cors - http://stackoverflow.com/questions/22282137/cloudfront-error-when-serving-over-https-using-sni
 - cors - https://spring.io/understanding/CORS
+- serverless - lambda - https://docs.aws.amazon.com/lambda/latest/dg/best-practices.html
 
 Marketing
 =================
