@@ -157,3 +157,13 @@ Stuff
 
 - location beacons - https://estimote.com/
 - oneSignal - Push notifications - https://onesignal.com/
+
+
+AI
+=======
+
+- vicuna - https://lmsys.org/blog/2023-03-30-vicuna/
+- oneai - https://studio.oneai.com/
+- ingestai - https://app.ingestai.io/
+- huggingface - https://huggingface.co/
+- weaviate - https://weaviate.io/
